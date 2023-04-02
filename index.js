@@ -107,7 +107,7 @@ const spotLight = new THREE.SpotLight( 0xFF750F, 12);
 				scene.add( spotLight );
 
 				const lightHelper = new THREE.SpotLightHelper( spotLight );
-				scene.add( lightHelper );
+		
 
 
 
